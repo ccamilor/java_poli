@@ -47,7 +47,10 @@ public class variables {
 
 
 
-    //TIPOS DE DATOS ESTRUCTURADOS
+        //TIPOS DE DATOS ESTRUCTURADOS
 
-    
+    //String: Se emplea usando una instancia de la clase String
+    //Aunque parezca trabajar con datos primitivos
+
+    String variableString = "Hola soy un caracter";
 }
